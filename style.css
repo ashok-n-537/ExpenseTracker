@@ -1,8 +1,16 @@
-
 :root {
+  --primary: #21865b;
+  --primary-hover: #176b46;
+  --page-bg: #f5f8f2;
+  --card-bg: #ffffff;
+  --text: #24372c;
+  --muted: #738276;
+  --border: #e0e9df;
+  --soft: #e8f5eb;
+
   font-family: "Segoe UI", Arial, sans-serif;
-  color: #202b3c;
-  background: #f5f7fb;
+  color: var(--text);
+  background: var(--page-bg);
   font-synthesis: none;
 }
 
